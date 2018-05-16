@@ -1,2 +1,0 @@
-# PassingDataBwComponents_UsingReactJS
-Created with CodeSandbox

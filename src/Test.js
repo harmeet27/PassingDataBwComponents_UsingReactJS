@@ -6,8 +6,8 @@ class Test extends Component {
     return (
       <div>
         <header>
-          <h1>this is test</h1>
-          <h1>{this.props.mytest}</h1>
+          <h1>this is test from test</h1>
+          <h2>{this.props.mytest}</h2>
         </header>
       </div>
     );
